@@ -1,5 +1,5 @@
-# victorly_c_learn
-c language
+#ifndef LEARN_C_H
+#define LEARN_C_H
 
 /*
 * 目录和大纲
@@ -20,7 +20,7 @@ c language
 *   15. structures: 结构体
 *   16. unions: 联合体 公用体
 *   17. bit fields: 位域
-*   18. typedef:
+*   18. typedef: 类型取一个新的名字
 *   19. input output: 输入输出
 *   20. file io: 文件读写
 *   21. preprocessors: 预处理器
@@ -33,3 +33,5 @@ c language
 *   28. command line arguments: 命令行参数
 *   29. c11_feature c11新特性
 */
+
+#endif // LEARN_C_H
