@@ -1,35 +1,74 @@
-# victorly_c_learn
-c language
+ LEARN C
 
-/*
-* 目录和大纲
-*   1. intro: 简介和基础结构
-*   2. basic syntax: 基本语法
-*   3. data types: 数据类型
-*   4. variables: 变量
-*   5. contants: 常量
-*   6. storage classes: 存储类
-*   7. operators: 操作符 运算符
-*   8. decision making: 判断
-*   9. loops: 循环
-*   10. functions: 函数
-*   11. scope rules: 作用域规则
-*   12. arrays: 数组
-*   13. pointers: 指针
-*   14. strings: 字符串
-*   15. structures: 结构体
-*   16. unions: 联合体 公用体
-*   17. bit fields: 位域
-*   18. typedef:
-*   19. input output: 输入输出
-*   20. file io: 文件读写
-*   21. preprocessors: 预处理器
-*   22. header files: 头文件
-*   23. type casting: 强制类型转换
-*   24. errorhandling: 错误处理
-*   25. recursion: 递归
-*   26. variable arguments: 可变参数
-*   27. memory management: 内存管理
-*   28. command line arguments: 命令行参数
-*   29. c11_feature c11新特性
-*/
+ ## 语言基础
+	- intro: 简介和基础结构
+	- basic syntax: 基本语法
+	- data types: 数据类型
+	- variables: 变量
+	- contants: 常量
+	- storage classes: 存储类
+	- operators: 操作符 运算符
+	- decision making: 判断
+	- loops: 循环
+	- functions: 函数
+	- scope rules: 作用域规则
+	- arrays: 数组
+	- pointers: 指针
+	- strings: 字符串
+	- structures: 结构体
+	- unions: 联合体 公用体
+	- bit fields: 位域
+	- typedef: 类型别名
+	- input output: 输入输出
+	- file io: 文件读写
+	- preprocessors: 预处理器
+	- header files: 头文件
+	- type casting: 强制类型转换
+	- errorhandling: 错误处理
+	- recursion: 递归
+	- variable arguments: 可变参数
+	- memory management: 内存管理
+	- command line arguments: 命令行参数
+	
+## 高级主题
+	- c 编程规划、编写高效c
+	- c11新特性
+	- 内存对齐
+	- 内存的申请和释放
+	- 内存映射
+	- 位操作
+	- 大端 小端
+	- 栈、堆、数据区、.bss段、.text段
+	- 库的封装和调用
+		- 静态库
+		- c++ 调用c
+	- 状态机
+	- 多线程
+	- c实现OOP
+	- c实现智能指针
+	- 算法和数据结构
+		- 排序
+		- 链表
+		- 二叉树
+		- 二分查找
+		- 图
+		- 队列
+		- 哈希表
+		- 集合
+		
+## 经典库
+	- cjson C JSON库
+	- CMockery google c单元测试框架
+	- lua lua脚本库
+	- libevent 异步事件框架
+	- libev 开源的事件驱动库
+	- libuv 
+	- Memcached 分布式内存对象缓存系统
+	- Redis 缓存数据库
+	- Webbench 网站压测工具
+	- Nginx 高性能的HTTP和反向代理服务器
+	- Tinyhttpd 轻量型Http Server
+	- zlib 压缩库
+	- openssl 
+	- C Algorithms  常用数据结构和算法
+	- libpng PNG库
