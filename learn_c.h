@@ -31,7 +31,6 @@
 *   26. variable arguments: 可变参数
 *   27. memory management: 内存管理
 *   28. command line arguments: 命令行参数
-*   29. c11_feature c11新特性
 */
 
 #endif // LEARN_C_H
